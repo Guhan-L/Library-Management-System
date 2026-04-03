@@ -13,7 +13,7 @@ A web-based Library Management System developed to manage books and maintain lib
 ---
 
 ## 🎥 Demo
-👉 [Click here to watch the demo video][(PASTE_YOUR_VIDEO_LINK_HERE)](https://drive.google.com/file/d/153moZgLKQ5OZS2Nn8tOQkAMd1sfYtzQw/view?usp=drivesdk)
+👉 [Click here to watch the demo video][(https://drive.google.com/file/d/153moZgLKQ5OZS2Nn8tOQkAMd1sfYtzQw/view?usp=drivesdk)
 
 ---
 
