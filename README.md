@@ -26,7 +26,6 @@ A web-based Library Management System developed to manage books and maintain lib
 
 ## 📌 Project Status
 - Demo available ✅  
-- Code will be updated soon 🔄  
 
 ---
 
