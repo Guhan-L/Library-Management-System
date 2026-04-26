@@ -5,8 +5,8 @@ A web-based Library Management System developed to manage books and maintain lib
 ---
 ## Contributors
 
-Guhan L &
-Rohith Kumar S
+- Guhan L 
+- Rohith Kumar S
 
 ## 🚀 Features
 - Add new books
