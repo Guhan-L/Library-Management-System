@@ -3,9 +3,9 @@
 A web-based Library Management System developed to manage books and maintain library records efficiently. This project demonstrates basic functionality such as adding, viewing, and managing book data with a simple and user-friendly interface.
 
 ---
-# Team Members
+## Team Members
 
-Guhan L
+Guhan L &
 Rohith Kumar S
 
 ## 🚀 Features
